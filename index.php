@@ -1,4 +1,4 @@
 <?php
-inlcude_once("src/index.html");
+include_once("src/index.html");
 
 ?>
